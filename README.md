@@ -2,11 +2,13 @@
 
 ## 1. Python Programming Language -1 Month
 Python:
+1. Video
 Python In English:https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
 
-Python In Hindi: https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v
-
 Flask Playlist: https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc
+2. Book
+
+3. Online Course
 
 ### Final Goal Outcome:
 1. Basic To Intermediate Python With various knowledge of various Data structures like numpy,pandas,matplotlib and many more.
@@ -17,23 +19,30 @@ Flask Playlist: https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBa
 https://docs.python.org/3/whatsnew/3.10.html
 
 ## 2. Statistics
+1. Video
 English: 7 Days Statistics Live Session :https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
 
 Statistics in ML(43 videos): https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
 
-Hindi: Stats Playlist: https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ
+2. Book
+Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python [2 ed.]
+Video based on book above: https://www.youtube.com/playlist?list=PL-u09-6gP5ZNd6AhULnQHr6ZsF15qy4D0
 
 ### EDA
+1. Video
 EDA Live :https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh
 
 EDA Detailed Playlist: https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9
 
-### Feature Engineering
+2. Book
 
+### Feature Engineering
+1. Video
 Complete Detailed Feature Engineering: https://www.youtube.com/watch?v=6WDFfaYtN6s&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN
 
 Live EDA Feature Engineering Playlist: https://www.youtube.com/watch?v=bTN-6VPe8c0&list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh
 
+2. Book
 ### Final Goal Outcome: 
 1. Techniques to Perform Statistical Analysis
 2. Familiar with all concepts which will be important for Machine Learning
@@ -47,8 +56,6 @@ Complete Around 20-25 Algorithms Both ssupervised And Unsupervised ML
 Live ML Playlist: https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz
 
 Complete ML Playlist: https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
-
-Hindi: ML Playlist: https://www.youtube.com/watch?v=7uwa9aPbBRU&list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ
 
 ## Deep Learning Playlist:
 5 DaysLive Deep Learning Playlist: https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
@@ -69,10 +76,3 @@ Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELR
 6. Evidently AI
 7. Grafana(Monitoring)
 8. AirFlow
-
-## Best Affordable Data Science Course From Pwskills(6-7 Months)
-
-Impact Batch:- Data-Science-Masters (Full Stack Data Science)
-1. Data Science Masters Hindi: https://pwskills.com/course/Data-Science-masters (Hindi)
-2. Data Science Masters English: https://pwskills.com/course/Data-Science-Masters (English)
-Visit : https://pwskills.com
